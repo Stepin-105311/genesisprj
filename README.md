@@ -1,0 +1,1 @@
+# weekday-of-the-given-data
